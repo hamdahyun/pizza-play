@@ -1,13 +1,25 @@
-import './App.css';
+import React, { Component } from 'react';
 
+class App extends React.Component {
+  state = {
+    isLoading: true
+  }
 
+  componentDidMount() {
+    //data를 fetch하는 거야 
+    setTimeout(() => {
+      this.setState({ isLoading: false });
+    }, 6000)
+  }
 
-function App() {
-  return (
-    <div>
-      <h1>Hello</h1>
-    </div>
-  );
+  render() {
+    const { isLoading } = this.state;
+    return (
+      <div>
+        {isLoading ? "Loading..." : "We are ready" }
+      </div>
+    );
+  }
 }
 
 export default App;
