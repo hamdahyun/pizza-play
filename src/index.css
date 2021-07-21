@@ -35,7 +35,8 @@ a {
   text-decoration: none;
 }
 ul,
-ol {
+ol,
+li {
   list-style-type: none;
 }
 
