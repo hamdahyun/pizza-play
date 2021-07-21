@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pizza-play.git/static/css/main.25a581de.chunk.css",
-    "main.js": "/pizza-play.git/static/js/main.7cff9b9c.chunk.js",
-    "main.js.map": "/pizza-play.git/static/js/main.7cff9b9c.chunk.js.map",
-    "runtime-main.js": "/pizza-play.git/static/js/runtime-main.799affde.js",
-    "runtime-main.js.map": "/pizza-play.git/static/js/runtime-main.799affde.js.map",
-    "static/js/2.5594771f.chunk.js": "/pizza-play.git/static/js/2.5594771f.chunk.js",
-    "static/js/2.5594771f.chunk.js.map": "/pizza-play.git/static/js/2.5594771f.chunk.js.map",
-    "static/js/3.24580734.chunk.js": "/pizza-play.git/static/js/3.24580734.chunk.js",
-    "static/js/3.24580734.chunk.js.map": "/pizza-play.git/static/js/3.24580734.chunk.js.map",
-    "index.html": "/pizza-play.git/index.html",
-    "static/css/main.25a581de.chunk.css.map": "/pizza-play.git/static/css/main.25a581de.chunk.css.map",
-    "static/js/2.5594771f.chunk.js.LICENSE.txt": "/pizza-play.git/static/js/2.5594771f.chunk.js.LICENSE.txt"
+    "main.css": "/pizza-play/static/css/main.25a581de.chunk.css",
+    "main.js": "/pizza-play/static/js/main.7cff9b9c.chunk.js",
+    "main.js.map": "/pizza-play/static/js/main.7cff9b9c.chunk.js.map",
+    "runtime-main.js": "/pizza-play/static/js/runtime-main.10fe5db3.js",
+    "runtime-main.js.map": "/pizza-play/static/js/runtime-main.10fe5db3.js.map",
+    "static/js/2.5594771f.chunk.js": "/pizza-play/static/js/2.5594771f.chunk.js",
+    "static/js/2.5594771f.chunk.js.map": "/pizza-play/static/js/2.5594771f.chunk.js.map",
+    "static/js/3.24580734.chunk.js": "/pizza-play/static/js/3.24580734.chunk.js",
+    "static/js/3.24580734.chunk.js.map": "/pizza-play/static/js/3.24580734.chunk.js.map",
+    "index.html": "/pizza-play/index.html",
+    "static/css/main.25a581de.chunk.css.map": "/pizza-play/static/css/main.25a581de.chunk.css.map",
+    "static/js/2.5594771f.chunk.js.LICENSE.txt": "/pizza-play/static/js/2.5594771f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.799affde.js",
+    "static/js/runtime-main.10fe5db3.js",
     "static/js/2.5594771f.chunk.js",
     "static/css/main.25a581de.chunk.css",
     "static/js/main.7cff9b9c.chunk.js"
